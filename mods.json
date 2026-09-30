@@ -1,0 +1,11 @@
+{ "mods": [ {
+  "id": "enb",
+  "name": "SA DirectX",
+  "description": "Probni mod",
+  "author": "TEBREX",
+  "version": "1.0.0",
+  "sizeBytes": 11752012,
+  "category": "Test",
+  "installTarget": "modloader",
+  "downloadUrl": "http://localhost/downloader/enb.zip"
+} ] }
