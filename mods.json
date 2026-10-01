@@ -7,5 +7,6 @@
   "sizeBytes": 11752012,
   "category": "Test",
   "installTarget": "root",
-  "downloadUrl": "https://raw.githubusercontent.com/tebrex98/downloader/main/enb.zip"
+  "downloadUrl": "https://raw.githubusercontent.com/tebrex98/downloader/main/enb.zip",
+  "isRequired": true
 } ] }
