@@ -1,8 +1,9 @@
 { "mods": [ {
   "id": "enb",
-  "name": "SA DirectX",
-  "description": "Probni mod - 2",
-  "author": "TEBREX",
+  "name": "SA DirectX 3.0",
+  "description": "SA_DirectX 3.0 is a legendary, complete graphical overhaul that brings 2004's San Andreas into the modern era. This mod replaces the game's dated rendering engine with high-end, cinematic visual effects typically found in modern AAA games.",
+  "imageUrl": "https://i.ibb.co/Gv2gNLCM/image.png",
+  "author": "Makarus",
   "version": "1.0.0",
   "sizeBytes": 11752012,
   "category": "Test",
