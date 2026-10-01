@@ -1,7 +1,7 @@
 { "mods": [ {
   "id": "enb",
   "name": "SA DirectX",
-  "description": "SA_DirectX 3.0 is a legendary, complete graphical overhaul that brings 2004's San Andreas into the modern era. This mod replaces the game's dated rendering engine with high-end, cinematic visual effects typically found in modern AAA games.",
+  "description": "Next-gen graphics overhaul for GTA:SA. Adds real-time reflections, volumetric clouds, and modern lighting. Requires a good gaming PC.",
   "imageUrl": "https://i.ibb.co/93nGg2cL/image.png",
   "author": "Makarus",
   "version": "3.0.0",
