@@ -1,4 +1,5 @@
-{ "mods": [ {
+{ "gta": { "downloadUrl": "https://download2270.mediafire.com/b6m2u25dcwyggkfEbLGz7o70mtgr8KF9f6D4ZUhox9pKPx6lZ-Qy85mZM3CZLh_Bcjvrer8ai-44U2CUu-BUXlgs7MqLmlv4TCCTrteDfA9K_qdMIrYWtFbAT4cYT6oy1033-sHtnE3pIUVDjN7MR71v3ie03xg8d60UUlo9Fto754OJ/kvervpisujd8teq/Gta+san+andreas.rar", "sha256": "...", "sizeBytes": 629145600 },
+  "mods": [ {
   "id": "enb",
   "name": "SA DirectX",
   "description": "Next-gen graphics overhaul for GTA:SA. Adds real-time reflections, volumetric clouds, and modern lighting. Requires a good gaming PC.",
