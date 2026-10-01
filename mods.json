@@ -19,11 +19,11 @@
       "description": "SA-MP Addon is a client-side plugin that fixes bugs, boosts FPS, stabilizes gameplay, and enhances graphics.",
       "imageUrl": "https://i.ibb.co/4RcrHtSs/image.png",
       "author": "Evgeny Sokolov",
-      "version": "2.7.0",
-      "sizeBytes": 11752012,
+      "version": "2.8.0",
+      "sizeBytes": 105009454,
       "category": "Test",
       "installTarget": "root",
-      "downloadUrl": "http://www.gta-samp.com/files/forum/SAMP_Addon_2.7_Setup.rar",
+      "downloadUrl": "https://download1474.mediafire.com/b4ezyrj7j3mgd4G0nDWYMmNy1KjP3qzCUkeIt6eVa5-0trXAvRDUweCBAOhG96O3owE41Vt07vPbMsVSDYh2h2bIPO4hIA3Jis2naIoE50Dvb72uwpdbj5b4t4DMQSnCEBJ24iOpeyQiLjzJtGaXq6aawg76Hd9BvzdHdLbB_bfHQKnP/a03hd0huicnty5y/samp_addon.zip",
       "required": false
     }
   ]
