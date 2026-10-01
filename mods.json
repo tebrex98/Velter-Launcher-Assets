@@ -1,4 +1,4 @@
-{ "gta": { "downloadUrl": "https://download2270.mediafire.com/b6m2u25dcwyggkfEbLGz7o70mtgr8KF9f6D4ZUhox9pKPx6lZ-Qy85mZM3CZLh_Bcjvrer8ai-44U2CUu-BUXlgs7MqLmlv4TCCTrteDfA9K_qdMIrYWtFbAT4cYT6oy1033-sHtnE3pIUVDjN7MR71v3ie03xg8d60UUlo9Fto754OJ/kvervpisujd8teq/Gta+san+andreas.rar", "sha256": "F1F5DF6A9423EFA64031D2FEAB629891248519633CB811C98B7426A4BBF18D2F", "sizeBytes": 629145600 },
+{ "gta": { "downloadUrl": "https://download1582.mediafire.com/qxgc98x6wlbg2pQEMRWVJj-XLz7wD0FYJ30B9UHXLDSPEbJY0WTUoIk7q6hdfqvVQ7R4_yipqr3PqoJsR39qRX96lE7KvlcRhQFoOANU2WJa0Q20x5jLivhS3lD4CRqGRukNDHrigmWbT8paD4AQgxx4ZfJbvVtFcfqE3Q1NgDy9gT-J/rvzrerrysao9don/GTA+San+Andreas.zip", "sha256": "987AD67C91E120AF1A7093768A9325492AD3CCBD77EE40AF7B9AA64ABE15C632", "sizeBytes": 997810848 },
   "mods": [
     {
       "id": "enb",
@@ -11,19 +11,6 @@
       "category": "Test",
       "installTarget": "root",
       "downloadUrl": "https://raw.githubusercontent.com/tebrex98/downloader/main/enb.zip",
-      "required": false
-    },
-    {
-      "id": "samp_addon",
-      "name": "SAMP Addon",
-      "description": "SA-MP Addon is a client-side plugin that fixes bugs, boosts FPS, stabilizes gameplay, and enhances graphics.",
-      "imageUrl": "https://i.ibb.co/4RcrHtSs/image.png",
-      "author": "Evgeny Sokolov",
-      "version": "2.8.0",
-      "sizeBytes": 119486030,
-      "category": "Test",
-      "installTarget": "root",
-      "downloadUrl": "https://download947.mediafire.com/tgp7q1iufukgTYu4meP2LK162-cYgSg9S5OAGYZBkgewklRei0mbE35-ubYwa80aXLipvRY9VRmVf24V01J4IKIDtRHP499pl7epKCALa8VbegOW1ErQxLEuZ5m8JI8Ify8LA57HmmgPYx3JaANMYxe-sYrXjyi3eHZBJ3aWJNvcjIEq/frsv1umvs187lja/samp_addon.zip",
       "required": false
     }
   ]
