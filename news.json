@@ -1,0 +1,20 @@
+{
+  "featured": {
+    "imageUrl": "https://example.com/news/cover.png",
+    "url": "https://example.com"
+  },
+  "items": [
+    {
+      "header": "Update 1.2",
+      "text": "Nova mapa, popravke i gluposti.",
+      "imageUrl": "https://example.com/news/update-1-2.png",
+      "url": "https://example.com/news/update-1-2"
+    },
+    {
+      "header": "Event vikendom",
+      "text": "Dupli XP ovog vikenda.",
+      "imageUrl": "https://example.com/news/event.png",
+      "url": "https://example.com/news/event"
+    }
+  ]
+}
