@@ -12,8 +12,8 @@
       "defaultVariant": "medium",
       "variants": [
         { "id": "ultra-low", "name": "Ultra Low", "description": "Za slabije računare", "sizeBytes": 5000000, "downloadUrl": "https://raw.githubusercontent.com/tebrex98/downloader/main/enb.zip" },
-        { "id": "medium", "name": "Medium", "sizeBytes": 9000000, "downloadUrl": "https://raw.githubusercontent.com/tebrex98/downloader/main/enb.zip" },
-        { "id": "high",   "name": "High",   "sizeBytes": 11752012, "downloadUrl": "https://raw.githubusercontent.com/tebrex98/downloader/main/enb.zip" }
+        { "id": "medium", "name": "Medium", "description": "Za računare srednje klase", "sizeBytes": 9000000, "downloadUrl": "https://raw.githubusercontent.com/tebrex98/downloader/main/enb.zip" },
+        { "id": "high",   "name": "High", "description": "Za jake računare", "sizeBytes": 11752012, "downloadUrl": "https://raw.githubusercontent.com/tebrex98/downloader/main/enb.zip" }
       ]
     },
     {
