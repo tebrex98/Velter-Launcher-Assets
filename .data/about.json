@@ -12,7 +12,8 @@
     "Velter Community otvoren je za sve koji žele da budu deo naše priče. Bilo da ste dugogodišnji SA:MP igrač, novi u roleplay svetu, FiveM igrač, developer ili jednostavno neko ko želi da upozna novu ekipu, cilj nam je da svako pronađe svoje mesto u zajednici. Zajedno gradimo projekte, zajednicu i iskustva koja će ostati zapamćena."
   ],
   "team": [
-    { "name": "Stefan Stamenkovic aka TEBREX", "role": "Founder & Developer", "avatarUrl": "https://example.com/team/1.png" }
+    { "name": "TEBREX", "role": "Founder & Developer", "avatarUrl": "https://avatars.githubusercontent.com/u/29985707?v=4" },
+    { "name": "Silva", "role": "Developer", "avatarUrl": "https://avatars.githubusercontent.com/u/166868234?v=4" }
   ],
   "links": [
     { "label": "Discord", "url": "https://discord.gg/" },
