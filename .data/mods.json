@@ -8,7 +8,7 @@
       "version": "3.0.0",
       "installTarget": "root",
       "author": "Makarus",
-      "imageUrl": "https://raw.githubusercontent.com/tebrex98/downloader/refs/heads/main/mods/enb.png",
+      "imageUrl": "https://raw.githubusercontent.com/tebrex98/downloader/refs/heads/main/images/enb.png",
       "defaultVariant": "medium",
       "variants": [
         { "id": "ultra-low", "name": "Ultra Low", "description": "Za slabije računare", "sizeBytes": 5000000, "downloadUrl": "https://raw.githubusercontent.com/tebrex98/downloader/main/mods/enb.zip" },
