@@ -15,6 +15,19 @@
         { "id": "medium", "name": "Medium", "sizeBytes": 9000000, "downloadUrl": "https://raw.githubusercontent.com/tebrex98/downloader/main/enb.zip" },
         { "id": "high",   "name": "High",   "sizeBytes": 11752012, "downloadUrl": "https://raw.githubusercontent.com/tebrex98/downloader/main/enb.zip" }
       ]
+    },
+    {
+      "id": "vehicle_pack",
+      "name": "90s Atmosphere Vehicles Pack",
+      "description": "AVPR replaces all the original cars with HD vehicles , real and similar cars, and best of all, it still maintains its high quality, where the author took care to select cars of similar quality to generate the most consistent visual appearance possible.",
+      "imageUrl": "https://i.ibb.co/nqWbtH79/image.png",
+      "author": "Firefly",
+      "version": "3.0.0",
+      "sizeBytes": 478150656,
+      "category": "Test",
+      "installTarget": "root",
+      "downloadUrl": "https://drive.usercontent.google.com/download?id=18iLZ_IEoAQl-3nZgWa_kFy6q7lsszy0L&export=download&authuser=0",
+      "required": false
     }
   ]
 }
