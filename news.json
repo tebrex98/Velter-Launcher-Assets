@@ -1,6 +1,6 @@
 {
   "featured": {
-    "imageUrl": "https://example.com/news/cover.png",
+    "imageUrl": "https://raw.githubusercontent.com/tebrex98/downloader/refs/heads/main/hq-cover.png",
     "url": "https://example.com"
   },
   "items": [
