@@ -1,0 +1,21 @@
+{
+  "title": "Velter Community",
+  "subtitle": "O nama",
+  "logoUrl": "https://example.com/logo.png",
+  "paragraphs": [
+    "Velter Community je gaming zajednica posvećena ljubiteljima multiplayer roleplay i drugih online igara, sa posebnim fokusom na SA:MP i FiveM platforme. Naš cilj je da okupimo igrače, developere i ljubitelje gaming scene na jednom mestu, pružajući im kvalitetno iskustvo igranja, aktivnu zajednicu i prostor za druženje, zabavu i razvoj sopstvenih projekata.",
+    "Zajednica je nastala iz želje da se napravi mesto gde igrači mogu da uživaju u kvalitetnim multiplayer projektima, ali i da učestvuju u njihovom razvoju. Tokom vremena Velter Community se razvijao zajedno sa svojim članovima, prateći promene na SA:MP i FiveM sceni i prilagođavajući svoje projekte savremenim standardima. Posebnu pažnju posvećujemo stabilnosti servera, kvalitetu sistema i sadržaja, kao i dugoročnom razvoju zajednice.",
+    "Jedan od glavnih delova Velter Community-ja jeste roleplay iskustvo. Trudimo se da igračima pružimo realističan, zanimljiv i dinamičan svet u kojem njihove odluke imaju značaj. Pored klasičnih roleplay sistema, radimo na različitim funkcijama, ekonomiji, poslovima, organizacijama i drugim sadržajima koji igračima omogućavaju da kreiraju sopstvene priče i iskustva.",
+    "Velter Community se zasniva na fer igri, međusobnom poštovanju i odgovornom ponašanju. Od članova očekujemo da poštuju druge igrače, administraciju i pravila servera, bez obzira na njihov nivo iskustva ili ulogu u zajednici. Ne podržavamo varanje, iskorišćavanje grešaka, namerno ometanje drugih igrača, vređanje i bilo koji oblik ponašanja koji narušava iskustvo zajednice.",
+    "Posebnu pažnju posvećujemo razvoju i tehničkoj strani naših projekata. Velter Community okuplja ljude zainteresovane za programiranje, server development, skriptovanje, dizajn i administraciju, zbog čega zajednica nije namenjena samo igračima već i svima koji žele da doprinesu stvaranju multiplayer projekata. Ideje članova, povratne informacije i predlozi predstavljaju važan deo daljeg razvoja.",
+    "Naš cilj nije samo da napravimo još jedan multiplayer server, već da izgradimo prepoznatljivu i dugoročnu gaming zajednicu. Želimo da Velter Community bude mesto kojem se igrači vraćaju zbog ljudi koje su upoznali, iskustava koja su doživeli i projekata u kojima su učestvovali. Kroz kontinuiran razvoj, nove sisteme, događaje i aktivnu komunikaciju sa članovima nastojimo da zajednica ostane zanimljiva i relevantna.",
+    "Velter Community otvoren je za sve koji žele da budu deo naše priče. Bilo da ste dugogodišnji SA:MP igrač, novi u roleplay svetu, FiveM igrač, developer ili jednostavno neko ko želi da upozna novu ekipu, cilj nam je da svako pronađe svoje mesto u zajednici. Zajedno gradimo projekte, zajednicu i iskustva koja će ostati zapamćena."
+]
+  "team": [
+    { "name": "Stefan Stamenkovic aka TEBREX", "role": "Founder & Developer", "avatarUrl": "https://example.com/team/1.png" }
+  ],
+  "links": [
+    { "label": "Discord", "url": "https://discord.gg/" },
+    { "label": "Website", "url": "https://example.com" }
+  ]
+}
