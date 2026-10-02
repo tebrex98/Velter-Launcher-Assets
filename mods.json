@@ -8,7 +8,7 @@
       "version": "3.0.0",
       "installTarget": "root",
       "author": "Makarus",
-      "imageUrl": "https://i.ibb.co/93nGg2cL/image.png",
+      "imageUrl": "https://raw.githubusercontent.com/tebrex98/downloader/refs/heads/main/enb.png",
       "defaultVariant": "medium",
       "variants": [
         { "id": "ultra-low", "name": "Ultra Low", "description": "Za slabije računare", "sizeBytes": 5000000, "downloadUrl": "https://raw.githubusercontent.com/tebrex98/downloader/main/enb.zip" },
@@ -20,7 +20,7 @@
       "id": "vehicle_pack",
       "name": "90s Atmosphere Vehicles Pack",
       "description": "AVPR replaces all the original cars with HD vehicles , real and similar cars, and best of all, it still maintains its high quality, where the author took care to select cars of similar quality to generate the most consistent visual appearance possible.",
-      "imageUrl": "https://i.ibb.co/nqWbtH79/image.png",
+      "imageUrl": "https://raw.githubusercontent.com/tebrex98/downloader/refs/heads/main/vehicle_pack.png",
       "author": "Firefly",
       "version": "3.0.0",
       "sizeBytes": 722230863,
