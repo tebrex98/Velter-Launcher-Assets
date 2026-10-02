@@ -39,6 +39,18 @@
       "installTarget": "modloader",
       "downloadUrl": "https://download1980.mediafire.com/prov12jacqegv4_7MWiU3uMeuYHbQv5PghhbwgFG7-fXecdDe6FvNH3eKUNsVlRU3uXNwddKhlkGLnqDYRSGUAJgwe2WDWT4eaocsWX_wPdpj-bPz8j8UltA8Fm9F5xDqlwWZW4RzAYupvlhWRo0ehnWdlJYeyEBJYiy-8glEF2AyJSh/b2ts4o596vpwtu5/Proper+Fixes.zip",
       "required": false
+    },
+    {
+      "id": "proper_shaders",
+      "name": "Proper Shaders",
+      "description": "",
+      "imageUrl": "https://raw.githubusercontent.com/tebrex98/downloader/refs/heads/main/proper_fixes.png",
+      "author": "Junior_Djjr & Jéssica Natália",
+      "version": "1.0.0",
+      "sizeBytes": 3410804,
+      "installTarget": "modloader",
+      "downloadUrl": "https://github.com/tebrex98/downloader/raw/refs/heads/main/proper_shaders.zip",
+      "required": false
     }
   ]
 }
