@@ -27,6 +27,18 @@
       "installTarget": "modloader",
       "downloadUrl": "https://download1640.mediafire.com/n3r26eo17j5gKhtOSndXje5YnhL9c7TwZs513ly7BDNcaMNC0Q5BNDGBU6w1bhIkQZnh7Ru2IbSKz8-MdBq7WpdygvWrwXgtfzBvl0HarfdZp__U2HhJZ7cclJQwFUjCmThnr0_uCIwCwUin3NVc204WLHlfxbvCoQ6XcSYK5b8UJVgM/mtual7s4ph4blgp/vehicle_pack.zip",
       "required": false
+    },
+    {
+      "id": "proper_fixes",
+      "name": "[SA] Proper Fixes",
+      "description": "The mod fixes and optimizes the game, but also adds a few things; in general, it won't cause any or almost no FPS drop in your game, even on weak PCs. It also adds mipmapping to all textures, so if your GPU is weak, don't use high anisotropic filtering.",
+      "imageUrl": "https://raw.githubusercontent.com/tebrex98/downloader/refs/heads/main/proper_fixes.png",
+      "author": "Junior_Djjr & Jéssica Natália",
+      "version": "2.1.1",
+      "sizeBytes": 885232492,
+      "installTarget": "modloader",
+      "downloadUrl": "https://download1640.mediafire.com/n3r26eo17j5gKhtOSndXje5YnhL9c7TwZs513ly7BDNcaMNC0Q5BNDGBU6w1bhIkQZnh7Ru2IbSKz8-MdBq7WpdygvWrwXgtfzBvl0HarfdZp__U2HhJZ7cclJQwFUjCmThnr0_uCIwCwUin3NVc204WLHlfxbvCoQ6XcSYK5b8UJVgM/mtual7s4ph4blgp/vehicle_pack.zip",
+      "required": false
     }
   ]
 }
