@@ -11,9 +11,12 @@
       "imageUrl": "https://raw.githubusercontent.com/tebrex98/downloader/refs/heads/main/images/enb.png",
       "defaultVariant": "medium",
       "variants": [
-        { "id": "ultra-low", "name": "Ultra Low", "description": "Za slabije računare", "sizeBytes": 5000000, "downloadUrl": "https://raw.githubusercontent.com/tebrex98/downloader/main/mods/enb.zip" },
-        { "id": "medium", "name": "Medium", "description": "Za računare srednje klase", "sizeBytes": 9000000, "downloadUrl": "https://raw.githubusercontent.com/tebrex98/downloader/main/mods/enb.zip" },
-        { "id": "high",   "name": "High", "description": "Za jake računare", "sizeBytes": 11752012, "downloadUrl": "https://raw.githubusercontent.com/tebrex98/downloader/main/mods/enb.zip" }
+        { "id": "very_low", "name": "Very Low", "description": "Za slabije računare", "sizeBytes": 9004505, "downloadUrl": "https://raw.githubusercontent.com/tebrex98/downloader/main/mods/enb/very_low.zip" },
+        { "id": "low", "name": "Low", "description": "Za slabije računare", "sizeBytes": 9004505, "downloadUrl": "https://raw.githubusercontent.com/tebrex98/downloader/main/mods/enb/low.zip" },
+        { "id": "medium", "name": "Medium", "description": "Za računare srednje klase", "sizeBytes": 9004505, "downloadUrl": "https://raw.githubusercontent.com/tebrex98/downloader/main/mods/enb/medium.zip" },
+        { "id": "high", "name": "High", "description": "Za jake računare", "sizeBytes": 9004505, "downloadUrl": "https://raw.githubusercontent.com/tebrex98/downloader/main/mods/enb/high.zip" },
+        { "id": "very_high", "name": "Very High", "description": "Za jake računare", "sizeBytes": 9004505, "downloadUrl": "https://raw.githubusercontent.com/tebrex98/downloader/main/mods/enb/very_high.zip" },
+        { "id": "ultra", "name": "Ultra", "description": "Za ultra gaming jake računare", "sizeBytes": 9004505, "downloadUrl": "https://raw.githubusercontent.com/tebrex98/downloader/main/mods/enb/ultra.zip" }
       ]
     },
     {
