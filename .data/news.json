@@ -1,9 +1,14 @@
 {
   "featured": {
-    "imageUrl": "https://cdn.dribbble.com/userupload/45451764/file/696f5209e23fa6c294ac8d150645147f.png?resize=400x0",
+    "imageUrl": "https://github.com/tebrex98/downloader/blob/main/images/hq-cover.png?raw=true",
     "url": "https://example.com"
   },
   "items": [
-    
+    {
+      "header": "Test",
+      "text": "Testiranje novosti",
+      "imageUrl": "https://github.com/tebrex98/downloader/blob/main/images/hq-cover.png?raw=true",
+      "url": "https://example.com"
+    }
   ]
 }
