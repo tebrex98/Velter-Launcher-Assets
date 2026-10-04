@@ -1,7 +1,9 @@
 {
   "featured": {
     "imageUrl": "https://github.com/tebrex98/downloader/blob/main/images/hq-cover.png?raw=true",
-    "url": "https://example.com"
+    "url": "https://example.com",
+    "header": "Glavna novost",
+    "text": "Testiranje glavnih novosti",
   },
   "items": [
     {
