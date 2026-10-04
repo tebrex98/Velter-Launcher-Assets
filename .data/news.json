@@ -1,9 +1,9 @@
 {
   "featured": {
-    "imageUrl": "https://github.com/tebrex98/downloader/blob/main/images/hq-cover.png?raw=true",
+    "imageUrl": "https://i.ibb.co/CpsNmjnB/image.png",
     "url": "https://example.com",
-    "header": "Glavna novost",
-    "text": "Testiranje glavnih novosti",
+    "header": "Mode Manager is here!",
+    "text": "Mode Manager is a new and convenient way to manage your game modes directly from the launcher. Easily browse available modes, switch between different configurations and prepare everything you need before joining the game — all from one place. Whether you prefer different gameplay experiences, server configurations or custom setups, Mode Manager keeps everything organized and makes switching between them quick and simple. No need to manually modify files or spend time configuring everything every time you want to try something different. Choose your preferred mode, manage its settings and launch the game with the right configuration automatically applied. With Mode Manager, changing the way you play has never been easier."
   },
   "items": [
     {
