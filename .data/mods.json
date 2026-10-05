@@ -2,6 +2,18 @@
   "gta": { "downloadUrl": "https://download1582.mediafire.com/qxgc98x6wlbg2pQEMRWVJj-XLz7wD0FYJ30B9UHXLDSPEbJY0WTUoIk7q6hdfqvVQ7R4_yipqr3PqoJsR39qRX96lE7KvlcRhQFoOANU2WJa0Q20x5jLivhS3lD4CRqGRukNDHrigmWbT8paD4AQgxx4ZfJbvVtFcfqE3Q1NgDy9gT-J/rvzrerrysao9don/GTA+San+Andreas.zip", "sha256": "987AD67C91E120AF1A7093768A9325492AD3CCBD77EE40AF7B9AA64ABE15C632", "sizeBytes": 997810848 },
   "mods": [
     {
+      "id": "velter_essential",
+      "name": "Velter Essential Pack",
+      "description": "The official Velter Essential Pack required for all players. Includes core mods, custom assets, and files needed to join the Velter community.",
+      "imageUrl": "https://raw.githubusercontent.com/tebrex98/downloader/refs/heads/main/images/velter_essentials.png",
+      "author": "TEBREX",
+      "version": "1.0.0",
+      "sizeBytes": 45941456,
+      "installTarget": "root",
+      "downloadUrl": "https://github.com/tebrex98/downloader/raw/refs/heads/main/mods/velter_essentials.zip",
+      "required": true
+    },
+    {
       "id": "enb",
       "name": "SA DirectX",
       "description": "Next-gen graphics overhaul for GTA:SA. Adds real-time reflections, volumetric clouds, and modern lighting. Requires a good gaming PC.",
