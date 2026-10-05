@@ -1,5 +1,5 @@
 { 
-  "gta": { "downloadUrl": "https://download1326.mediafire.com/qtsnbskdv1cgF9kSBsa_phNDKwrxQGtHD9Pn5ljHUqR1eg0OtOB50OhglmDz9BivSAhzAF463MFBjh7OhmEQU8BmyUHMzvpFyUpqARisPeQXbMxidskjlGn3TU5Z_JyfHnPnEIJZt-Fb4kHVFf77YM5TGlm6F4zDdETWR0jlmny6snxj/1804ntr32vh2xnv/GTA+San+Andreas.zip", "sha256": "3158BBC2D6C99B9BC4C6BCC5F38CED6D221BDEE36BECC13352756B3DF67A518D", "sizeBytes": 955643706 },
+  "gta": { "downloadUrl": "https://download1474.mediafire.com/5l2gui7zk43g667TzFjivCfKFb7x9ng-2S0TB7a0SM3A4eO1fNq2lYYLxIgXNzhodcLEVqUXNTzjmvQO5eGyvjJoYEqRNL62CD6ViIMj3aJz4DZIzSSav2ByvBPvT7jKB0l57lDT9nwiMZ5M7ejRHskqpGmcJU1w9OktHe-8B_hU0dJA/cmfr4i2fg993qp0/GTA+San+Andreas.zip", "sha256": "AEF3CEB49B42D19342B59C13604654FDCA00840B306677635998CF7DC216D7DC", "sizeBytes": 961396487 },
   "mods": [
     {
       "id": "velter_essential",
@@ -8,9 +8,9 @@
       "imageUrl": "https://raw.githubusercontent.com/tebrex98/downloader/refs/heads/main/images/velter_essentials.png",
       "author": "TEBREX",
       "version": "1.0.0",
-      "sizeBytes": 45941456,
+      "sizeBytes": 40188675,
       "installTarget": "root",
-      "downloadUrl": "https://download850.mediafire.com/6cbdexcq48zg090Tk1IpWCoW6KeiY1rBuHF-ouB8hX5ceSfTiAtTyqJO4oAd33GzJvNbjETmDFU9N9PljCEWmhIk8KoQkbkVr_kWJ7yikjzO3svFQitPQF9WD63UjTHtf-bN_INhzSIsDs79FNIVMs9VyrWLXwkQhqGbBxhs8l1qE_dM/9pechw2ii9uysuz/velter_essentials.zip",
+      "downloadUrl": "https://download1320.mediafire.com/p2g2p2dgxotgbtBdv-Pkt4FdkbwMnMP0f5SHyt1BjPnLJuQ8toFZWXIEEHRKvgvMnJV-63r3IcXjU1JeMrz3Zw93IP8KL9JTQR4fHdiofDDu2rGqePShJ8GMUuNjkv-Pizw18g2aIrCM8VX_9dViwHa8xo-4ZaNjySA4PKT1wC-BkFIv/m8twgik6gn9j3ci/velter_essentials.zip",
       "required": true
     },
     {
