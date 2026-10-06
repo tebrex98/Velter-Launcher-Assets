@@ -5,12 +5,12 @@
       "id": "velter_essential",
       "name": "Velter Essential Pack",
       "description": "The official Velter Essential Pack required for all players. Includes core mods, custom assets, and files needed to join the Velter community.",
-      "imageUrl": "https://raw.githubusercontent.com/tebrex98/downloader/refs/heads/main/images/velter_essentials.png",
+      "imageUrl": "https://raw.githubusercontent.com/tebrex98/Velter-Launcher-Assets/refs/heads/main/images/velter_essentials.png",
       "author": "TEBREX",
       "version": "1.0.0",
       "sizeBytes": 39809195,
       "installTarget": "root",
-      "downloadUrl": "https://github.com/tebrex98/downloader/releases/download/velter_launcher/velter_essentials.zip",
+      "downloadUrl": "https://github.com/tebrex98/Velter-Launcher-Assets/releases/download/velter_launcher/velter_essentials.zip",
       "required": true
     },
     {
@@ -33,22 +33,22 @@
       "version": "3.0.0",
       "installTarget": "root",
       "author": "Makarus",
-      "imageUrl": "https://raw.githubusercontent.com/tebrex98/downloader/refs/heads/main/images/enb.png",
+      "imageUrl": "https://raw.githubusercontent.com/tebrex98/Velter-Launcher-Assets/refs/heads/main/images/enb.png",
       "defaultVariant": "medium",
       "variants": [
-        { "id": "very_low", "name": "Very Low", "description": "Za slabije računare", "sizeBytes": 9004505, "downloadUrl": "https://raw.githubusercontent.com/tebrex98/downloader/main/mods/enb/very_low.zip" },
-        { "id": "low", "name": "Low", "description": "Za slabije računare", "sizeBytes": 9004505, "downloadUrl": "https://raw.githubusercontent.com/tebrex98/downloader/main/mods/enb/low.zip" },
-        { "id": "medium", "name": "Medium", "description": "Za računare srednje klase", "sizeBytes": 9004505, "downloadUrl": "https://raw.githubusercontent.com/tebrex98/downloader/main/mods/enb/medium.zip" },
-        { "id": "high", "name": "High", "description": "Za jake računare", "sizeBytes": 9004505, "downloadUrl": "https://raw.githubusercontent.com/tebrex98/downloader/main/mods/enb/high.zip" },
-        { "id": "very_high", "name": "Very High", "description": "Za jake računare", "sizeBytes": 9004505, "downloadUrl": "https://raw.githubusercontent.com/tebrex98/downloader/main/mods/enb/very_high.zip" },
-        { "id": "ultra", "name": "Ultra", "description": "Za ultra gaming jake računare", "sizeBytes": 9004505, "downloadUrl": "https://raw.githubusercontent.com/tebrex98/downloader/main/mods/enb/ultra.zip" }
+        { "id": "very_low", "name": "Very Low", "description": "Za slabije računare", "sizeBytes": 9004505, "downloadUrl": "https://raw.githubusercontent.com/tebrex98/Velter-Launcher-Assets/main/mods/enb/very_low.zip" },
+        { "id": "low", "name": "Low", "description": "Za slabije računare", "sizeBytes": 9004505, "downloadUrl": "https://raw.githubusercontent.com/tebrex98/Velter-Launcher-Assets/main/mods/enb/low.zip" },
+        { "id": "medium", "name": "Medium", "description": "Za računare srednje klase", "sizeBytes": 9004505, "downloadUrl": "https://raw.githubusercontent.com/tebrex98/Velter-Launcher-Assets/main/mods/enb/medium.zip" },
+        { "id": "high", "name": "High", "description": "Za jake računare", "sizeBytes": 9004505, "downloadUrl": "https://raw.githubusercontent.com/tebrex98/Velter-Launcher-Assets/main/mods/enb/high.zip" },
+        { "id": "very_high", "name": "Very High", "description": "Za jake računare", "sizeBytes": 9004505, "downloadUrl": "https://raw.githubusercontent.com/tebrex98/Velter-Launcher-Assets/main/mods/enb/very_high.zip" },
+        { "id": "ultra", "name": "Ultra", "description": "Za ultra gaming jake računare", "sizeBytes": 9004505, "downloadUrl": "https://raw.githubusercontent.com/tebrex98/Velter-Launcher-Assets/main/mods/enb/ultra.zip" }
       ]
     },
     {
       "id": "vehicle_pack",
       "name": "90s Atmosphere Vehicles Pack",
       "description": "AVPR replaces all the original cars with HD vehicles , real and similar cars, and best of all, it still maintains its high quality, where the author took care to select cars of similar quality to generate the most consistent visual appearance possible.",
-      "imageUrl": "https://raw.githubusercontent.com/tebrex98/downloader/refs/heads/main/images/vehicle_pack.png",
+      "imageUrl": "https://raw.githubusercontent.com/tebrex98/Velter-Launcher-Assets/refs/heads/main/images/vehicle_pack.png",
       "author": "Firefly",
       "version": "3.0.0",
       "sizeBytes": 722230863,
@@ -60,7 +60,7 @@
       "id": "proper_fixes",
       "name": "[SA] Proper Fixes",
       "description": "The mod fixes and optimizes the game, but also adds a few things; in general, it won't cause any or almost no FPS drop in your game, even on weak PCs. It also adds mipmapping to all textures, so if your GPU is weak, don't use high anisotropic filtering.",
-      "imageUrl": "https://raw.githubusercontent.com/tebrex98/downloader/refs/heads/main/images/proper_fixes.png",
+      "imageUrl": "https://raw.githubusercontent.com/tebrex98/Velter-Launcher-Assets/refs/heads/main/images/proper_fixes.png",
       "author": "Junior_Djjr & Jéssica Natália",
       "version": "2.1.1",
       "sizeBytes": 885232492,
@@ -72,12 +72,12 @@
       "id": "proper_shaders",
       "name": "Proper Shaders",
       "description": "",
-      "imageUrl": "https://raw.githubusercontent.com/tebrex98/downloader/refs/heads/main/images/proper_fixes.png",
+      "imageUrl": "https://raw.githubusercontent.com/tebrex98/Velter-Launcher-Assets/refs/heads/main/images/proper_fixes.png",
       "author": "Junior_Djjr & Jéssica Natália",
       "version": "1.0.0",
       "sizeBytes": 3410804,
       "installTarget": "modloader",
-      "downloadUrl": "https://github.com/tebrex98/downloader/releases/download/velter_launcher/proper_shaders.zip",
+      "downloadUrl": "https://github.com/tebrex98/Velter-Launcher-Assets/releases/download/velter_launcher/proper_shaders.zip",
       "required": false
     }
   ]
