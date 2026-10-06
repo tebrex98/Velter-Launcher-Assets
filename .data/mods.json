@@ -14,6 +14,19 @@
       "required": true
     },
     {
+      "id": "cef",
+      "name": "Chromium Embedded Framework (CEF)",
+      "description": "It embeds Chromium Embedded Framework into GTA San Andreas Multiplayer clients and allows servers to create browser-based UI in several rendering modes: Overlay2D, World2D and WorldObject3D.",
+      "imageUrl": "https://integu.net/wp-content/uploads/2020/11/INTEGU-Chromium-embedded-framework.png",
+      "author": "aurora-mp",
+      "version": "1.3.0",
+      "sizeBytes": 153092096,
+      "sha256": "8ae91a82e625d97d957617db6fd63ba9837c95a804a272a9d680005231700f08",
+      "installTarget": "root",
+      "downloadUrl": "https://github.com/aurora-mp/omp-cef/releases/download/v1.3.0/client-files-v1.3.0.zip",
+      "required": true
+    },
+    {
       "id": "enb",
       "name": "SA DirectX",
       "description": "Next-gen graphics overhaul for GTA:SA. Adds real-time reflections, volumetric clouds, and modern lighting. Requires a good gaming PC.",
