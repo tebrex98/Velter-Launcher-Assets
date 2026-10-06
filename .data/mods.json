@@ -77,7 +77,7 @@
       "version": "1.0.0",
       "sizeBytes": 3410804,
       "installTarget": "modloader",
-      "downloadUrl": "https://github.com/tebrex98/downloader/raw/refs/heads/main/mods/proper_shaders.zip",
+      "downloadUrl": "https://github.com/tebrex98/downloader/releases/download/velter_launcher/proper_shaders.zip",
       "required": false
     }
   ]
