@@ -1,0 +1,41 @@
+{
+  "currency": "EUR",
+
+  "topups": [
+    { "id": "vp-500",  "name": "500 V-Points",  "vpoints": 500,  "price": 5.00 },
+    { "id": "vp-1200", "name": "1200 V-Points", "vpoints": 1200, "price": 10.00, "badge": "+20% bonus" },
+    { "id": "vp-3000", "name": "3000 V-Points", "vpoints": 3000, "price": 20.00, "badge": "Best value" }
+  ],
+
+  "categories": [
+    {
+      "id": "vip", "name": "VIP",
+      "packages": [
+        { "id": "vip-bronze-30", "name": "VIP Bronze", "description": "VIP 1 for 30 days", "price": 300,
+          "image": "https://raw.githubusercontent.com/tebrex98/Velter-Launcher-Assets/main/.data/shop/vip-bronze.png",
+          "effect": { "type": "vip", "value": 1, "amount": 30 } },
+        { "id": "vip-silver-30", "name": "VIP Silver", "description": "VIP 2 for 30 days", "price": 600,
+          "effect": { "type": "vip", "value": 2, "amount": 30 } }
+      ]
+    },
+    {
+      "id": "vehicles", "name": "Vehicles",
+      "packages": [
+        { "id": "veh-nrg500", "name": "NRG-500", "description": "Claim it in-game into a free vehicle slot", "price": 800,
+          "effect": { "type": "vehicle", "value": 522 } }
+      ]
+    },
+    {
+      "id": "extras", "name": "Extras",
+      "packages": [
+        { "id": "extra-slot", "name": "Extra vehicle slot", "description": "One more vehicle slot", "price": 500, "badge": "Popular",
+          "effect": { "type": "vehicle_slot", "amount": 1 } },
+        { "id": "starter-bundle", "name": "Starter bundle", "description": "Sultan + $50,000 cash", "price": 900,
+          "effects": [
+            { "type": "vehicle", "value": 560 },
+            { "type": "money", "amount": 50000 }
+          ] }
+      ]
+    }
+  ]
+}
