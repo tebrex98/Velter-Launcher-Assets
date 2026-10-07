@@ -3,6 +3,7 @@
   "mods": [
     {
       "id": "velter_essential",
+      "game": "samp",
       "name": "Velter Essential Pack",
       "description": "The official Velter Essential Pack required for all players. Includes core mods, custom assets, and files needed to join the Velter community.",
       "imageUrl": "https://raw.githubusercontent.com/tebrex98/Velter-Launcher-Assets/refs/heads/main/images/velter_essentials.png",
@@ -15,6 +16,7 @@
     },
     {
       "id": "cef",
+      "game": "samp",
       "name": "Chromium Embedded Framework (CEF)",
       "description": "It embeds Chromium Embedded Framework into GTA San Andreas Multiplayer clients and allows servers to create browser-based UI in several rendering modes: Overlay2D, World2D and WorldObject3D.",
       "imageUrl": "https://integu.net/wp-content/uploads/2020/11/INTEGU-Chromium-embedded-framework.png",
@@ -28,6 +30,7 @@
     },
     {
       "id": "enb",
+      "game": "samp",
       "name": "SA DirectX",
       "description": "Next-gen graphics overhaul for GTA:SA. Adds real-time reflections, volumetric clouds, and modern lighting. Requires a good gaming PC.",
       "version": "3.0.0",
@@ -46,6 +49,7 @@
     },
     {
       "id": "vehicle_pack",
+      "game": "samp",
       "name": "90s Atmosphere Vehicles Pack",
       "description": "AVPR replaces all the original cars with HD vehicles , real and similar cars, and best of all, it still maintains its high quality, where the author took care to select cars of similar quality to generate the most consistent visual appearance possible.",
       "imageUrl": "https://raw.githubusercontent.com/tebrex98/Velter-Launcher-Assets/refs/heads/main/images/vehicle_pack.png",
@@ -58,6 +62,7 @@
     },
     {
       "id": "proper_fixes",
+      "game": "samp",
       "name": "[SA] Proper Fixes",
       "description": "The mod fixes and optimizes the game, but also adds a few things; in general, it won't cause any or almost no FPS drop in your game, even on weak PCs. It also adds mipmapping to all textures, so if your GPU is weak, don't use high anisotropic filtering.",
       "imageUrl": "https://raw.githubusercontent.com/tebrex98/Velter-Launcher-Assets/refs/heads/main/images/proper_fixes.png",
@@ -70,6 +75,7 @@
     },
     {
       "id": "proper_shaders",
+      "game": "samp",
       "name": "Proper Shaders",
       "description": "",
       "imageUrl": "https://raw.githubusercontent.com/tebrex98/Velter-Launcher-Assets/refs/heads/main/images/proper_fixes.png",
