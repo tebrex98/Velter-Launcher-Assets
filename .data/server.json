@@ -43,6 +43,10 @@
     "sampImage": "samp",
     "fivemImage": "fivem",
     "buttons": [
-      { "label": "Join our Discord", "url": "https://discord.gg/yourinvite" }
+      {
+        "label": "Join our Discord",
+        "url": "https://discord.gg/yourinvite"
+      }
     ]
+  }
 }
