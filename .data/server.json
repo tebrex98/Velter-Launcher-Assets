@@ -51,19 +51,18 @@
   },
   "announcement": {
     "_level": "info|warning|danger",
-    "enabled": true,
+    "enabled": false,
     "id": "restart-1",
-    "message": "Server restart tonight at 20:00.",
+    "message": "The server is under development!",
     "level": "info",
-    "url": "https://discord.gg/yourinvite",
-    "linkText": "Discord",
-    "games": ["samp"],
-    "servers": ["rp"]
+    "url": "https://discord.gg/rEYUbYHs4V",
+    "linkText": "Visit our Discord"
   },
 
   "maintenance": {
-    "enabled": true,
+    "enabled": false,
     "message": "The server is under development!",
-    "games": ["samp", "fivem"]
+    "games": ["samp", "fivem"],
+    "servers": ["rp"]
   }
 }
