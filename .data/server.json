@@ -1,8 +1,30 @@
 {
-  "_info": "",
-  "samp": {
-    "ip": "192.168.1.15",
-    "port": 7777,
-    "locked": false
-  }
+  "servers": [
+    {
+      "id": "rp",
+      "game": "samp",
+      "name": "Velter RolePlay",
+      "mode": "RolePlay",
+      "ip": "192.168.1.15",
+      "port": 7777,
+      "locked": false,
+      "description": "Ozbiljan roleplay. Klikni PLAY i vidimo se u gradu."
+    },
+    {
+      "id": "dm",
+      "game": "samp",
+      "name": "Velter DeathMatch",
+      "mode": "DeathMatch",
+      "ip": "123.123.123.123",
+      "port": 7778,
+      "description": "Brza akcija sa sto manje pravila"
+    },
+    {
+      "id": "fivem-rp",
+      "game": "fivem",
+      "name": "Velter FiveM",
+      "mode": "RolePlay",
+      "join": "cfx.re/join/xxxxxx"
+    }
+  ]
 }
