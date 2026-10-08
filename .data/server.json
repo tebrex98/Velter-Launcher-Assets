@@ -51,7 +51,7 @@
   },
   "announcement": {
     "_level": "info|warning|danger",
-    "enabled": false,
+    "enabled": true,
     "id": "restart-1",
     "message": "The server is under development!",
     "level": "info",
