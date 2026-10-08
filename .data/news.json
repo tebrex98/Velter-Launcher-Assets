@@ -3,16 +3,18 @@
     "tag": "New",
     "imageUrl": "https://i.ibb.co/CpsNmjnB/image.png",
     "header": "Mode Manager is here!",
-    "text": "Mode Manager is a new and convenient way to manage your game modes directly from the launcher. Easily browse available modes, switch between different configurations and prepare everything you need before joining the game — all from one place. Whether you prefer different gameplay experiences, server configurations or custom setups, Mode Manager keeps everything organized and makes switching between them quick and simple. No need to manually modify files or spend time configuring everything every time you want to try something different. Choose your preferred mode, manage its settings and launch the game with the right configuration automatically applied. With Mode Manager, changing the way you play has never been easier.",
-    "date": "03.10.2026"
+    "text": "A new and convenient way to manage your game modes directly from the launcher.",
+    "date": "03.10.2026",
+    "body": "Mode Manager is a new and convenient way to manage your game modes directly from the launcher. Easily browse available modes, switch between different configurations and prepare everything you need before joining the game — all from one place.\n\nWhether you prefer different gameplay experiences, server configurations or custom setups, Mode Manager keeps everything organized and makes switching between them quick and simple. No need to manually modify files or spend time configuring everything every time you want to try something different.\n\nChoose your preferred mode, manage its settings and launch the game with the right configuration automatically applied.\n\nWith Mode Manager, changing the way you play has never been easier."
   },
   "items": [
     {
       "tag": "Update",
       "header": "GTA SA gamemode from scratch",
-      "text": "Build your own GTA San Andreas multiplayer experience from the ground up. Create unique gameplay systems, custom features and an entirely new game mode while having full control over how your server works. From the first line of code to the final release, bring your ideas to life and create something truly your own.",
+      "text": "We have started working on a brand new GTA SA gamemode, written completely from scratch.",
       "imageUrl": "https://i.ibb.co/fdytVfxw/sa-mp-0000005.png",
       "date": "03.10.2026",
+      "body": "We have started working on a brand new GTA SA gamemode, written completely from scratch.\n\nBuilding from the ground up lets us create cleaner systems, fix long-standing issues at the root and add new features much faster than before.\n\nWe will keep sharing news and progress here in the launcher, so stay tuned."
     }
   ]
 }
