@@ -48,5 +48,19 @@
         "url": "https://discord.gg/rEYUbYHs4V"
       }
     ]
+  },
+  "announcement": {
+    "enabled": true,
+    "id": "restart-1",
+    "message": "Server restart tonight at 20:00.",
+    "level": "warning",
+    "url": "https://discord.gg/yourinvite",
+    "linkText": "Discord"
+  },
+
+  "maintenance": {
+    "enabled": true,
+    "message": "We are updating the server. Come back at 22:00.",
+    "games": ["samp"]
   }
 }
