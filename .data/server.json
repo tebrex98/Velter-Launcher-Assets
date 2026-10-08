@@ -8,7 +8,7 @@
       "ip": "192.168.1.15",
       "port": 7777,
       "locked": false,
-      "description": "Ozbiljan roleplay. Klikni PLAY i vidimo se u gradu."
+      "description": "Step into a living world where every choice matters. Build your career, create connections, rise through the ranks, run your own business, and shape your story through the choices you make."
     },
     {
       "id": "dm",
@@ -17,7 +17,7 @@
       "mode": "DeathMatch",
       "ip": "123.123.123.123",
       "port": 7778,
-      "description": "Brza akcija sa sto manje pravila"
+      "description": "Action, no RP rules"
     },
     {
       "id": "fivem-rp",
