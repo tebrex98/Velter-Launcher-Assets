@@ -50,17 +50,20 @@
     ]
   },
   "announcement": {
+    "_level": "info|warning|danger",
     "enabled": true,
     "id": "restart-1",
     "message": "Server restart tonight at 20:00.",
-    "level": "warning",
+    "level": "info",
     "url": "https://discord.gg/yourinvite",
-    "linkText": "Discord"
+    "linkText": "Discord",
+    "games": ["samp"],
+    "servers": ["rp"]
   },
 
   "maintenance": {
     "enabled": true,
-    "message": "We are updating the server. Come back at 22:00.",
-    "games": ["samp"]
+    "message": "The server is under development!",
+    "games": ["samp", "fivem"]
   }
 }
