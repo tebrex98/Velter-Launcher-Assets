@@ -35,5 +35,14 @@
     "5": "Head Administrator",
     "6": "Director",
     "7": "Owner"
-  }
+  },
+  "discord": {
+    "clientId": "1516198758642356365",
+    "largeImage": "velter_logo",
+    "largeText": "Velter Community",
+    "sampImage": "samp",
+    "fivemImage": "fivem",
+    "buttons": [
+      { "label": "Join our Discord", "url": "https://discord.gg/yourinvite" }
+    ]
 }
