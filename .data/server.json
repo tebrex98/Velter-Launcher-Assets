@@ -60,7 +60,7 @@
   },
 
   "maintenance": {
-    "enabled": false,
+    "enabled": true,
     "message": "The server is under development!",
     "games": ["samp", "fivem"],
     "servers": ["rp"]
