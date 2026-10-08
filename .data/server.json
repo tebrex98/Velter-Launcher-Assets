@@ -57,12 +57,5 @@
     "level": "info",
     "url": "https://discord.gg/rEYUbYHs4V",
     "linkText": "Visit our Discord"
-  },
-
-  "maintenance": {
-    "enabled": true,
-    "message": "The server is under development!",
-    "games": ["samp", "fivem"],
-    "servers": ["rp"]
   }
 }
