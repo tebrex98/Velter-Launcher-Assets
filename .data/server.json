@@ -28,12 +28,12 @@
     }
   ],
   "staffRanks": {
-    "1": "Helper",
-    "2": "Admin 1",
-    "3": "Admin 2",
-    "4": "Admin 3",
-    "5": "Admin 4",
-    "6": "Admin 5",
-    "7": "Admin 6"
+    "1": "Game Support",
+    "2": "Moderator",
+    "3": "Administrator",
+    "4": "Senior Administrator",
+    "5": "Head Administrator",
+    "6": "Director",
+    "7": "Owner"
   }
 }
