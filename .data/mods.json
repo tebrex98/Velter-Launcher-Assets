@@ -11,7 +11,7 @@
       "version": "1.0.0",
       "sizeBytes": 39809195,
       "installTarget": "root",
-      "sha256": "62a9a228a0b5014284e078cc6e8d6733fb7b8ad65fec51ded8ca068d1e639e14"
+      "sha256": "62a9a228a0b5014284e078cc6e8d6733fb7b8ad65fec51ded8ca068d1e639e14",
       "downloadUrl": "https://github.com/tebrex98/Velter-Launcher-Assets/releases/download/velter_launcher/velter_essentials.zip",
       "required": true
     },
