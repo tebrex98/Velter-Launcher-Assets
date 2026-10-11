@@ -80,11 +80,24 @@
       "name": "Proper Shaders",
       "description": "",
       "imageUrl": "https://raw.githubusercontent.com/tebrex98/Velter-Launcher-Assets/refs/heads/main/images/proper_fixes.png",
-      "author": "Junior_Djjr & Jéssica Natália",
+      "author": "Junior_Djjr, Jéssica Natália",
       "version": "1.0.0",
       "sizeBytes": 3410804,
       "installTarget": "modloader",
       "downloadUrl": "https://github.com/tebrex98/Velter-Launcher-Assets/releases/download/velter_launcher/proper_shaders.zip",
+      "required": false
+    },
+    {
+      "id": "first_person",
+      "game": "samp",
+      "name": "First Person View",
+      "description": "Experience GTA SA & SAMP in true first-person! Adds fully immersive on-foot view, realistic in-car cockpits, ADS weapon aiming, and a customizable FOV.",
+      "imageUrl": "https://raw.githubusercontent.com/tebrex98/Velter-Launcher-Assets/refs/heads/main/images/first_person.png",
+      "author": "BoPoH, DK22Pac, DenSpb, Crspy, Junior_Djjr",
+      "version": "3.0.0",
+      "sizeBytes": 363518,
+      "installTarget": "modloader",
+      "downloadUrl": "https://github.com/tebrex98/Velter-Launcher-Assets/releases/download/velter_launcher/first_person.zip",
       "required": false
     }
   ]
