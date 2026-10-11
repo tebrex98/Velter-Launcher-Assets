@@ -93,9 +93,9 @@
       "name": "First Person View",
       "description": "Experience GTA SA & SAMP in true first-person! Adds fully immersive on-foot view, realistic in-car cockpits, ADS weapon aiming, and a customizable FOV.",
       "imageUrl": "https://raw.githubusercontent.com/tebrex98/Velter-Launcher-Assets/refs/heads/main/images/first_person.png",
-      "author": "BoPoH, DK22Pac, DenSpb, Crspy, Junior_Djjr",
-      "version": "3.0.0",
-      "sizeBytes": 363518,
+      "author": "peter_99",
+      "version": "1.0.0",
+      "sizeBytes": 1329911,
       "installTarget": "modloader",
       "downloadUrl": "https://github.com/tebrex98/Velter-Launcher-Assets/releases/download/velter_launcher/first_person.zip",
       "required": false
