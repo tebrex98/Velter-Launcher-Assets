@@ -9,9 +9,9 @@
       "imageUrl": "https://raw.githubusercontent.com/tebrex98/Velter-Launcher-Assets/refs/heads/main/images/velter_essentials.png",
       "author": "TEBREX",
       "version": "1.0.0",
-      "sizeBytes": 39995136,
+      "sizeBytes": 39994800,
       "installTarget": "root",
-      "sha256": "3e8cf79a2a58589e542a5a3be6645ac63a4107aa00d6f2724d72bade8ad8d59a",
+      "sha256": "3815807b844cf99793953d2e93067681d9e975e16596f15b29cecfd30ae89598",
       "downloadUrl": "https://github.com/tebrex98/Velter-Launcher-Assets/releases/download/velter_launcher/velter_essentials.zip",
       "required": true
     },
