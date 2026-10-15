@@ -57,5 +57,9 @@
     "level": "info",
     "url": "https://discord.gg/rEYUbYHs4V",
     "linkText": "Visit our Discord"
+  },
+  "background": {
+    "samp": "https://raw.githubusercontent.com/tebrex98/Velter-Launcher-Assets/refs/heads/main/images/background.jpg",
+    "fivem": "https://raw.githubusercontent.com/tebrex98/Velter-Launcher-Assets/refs/heads/main/images/bg_fivem.jpg"
   }
 }
