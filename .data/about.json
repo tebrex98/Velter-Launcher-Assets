@@ -12,8 +12,9 @@
     "Velter Community is open to everyone who wants to be part of our story. Whether you are a long-time SA:MP player, new to the roleplay world, a FiveM player, a developer, or simply someone looking to meet a new group of people, our goal is to make sure everyone can find their place within the community. Together, we build projects, a community, and experiences worth remembering."
   ],
   "team": [
-    { "name": "TEBREX", "role": "Founder & Developer", "avatarUrl": "https://avatars.githubusercontent.com/u/29985707?v=4" },
-    { "name": "Silva", "role": "Developer", "avatarUrl": "https://avatars.githubusercontent.com/u/166868234?v=4" }
+    { "name": "TEBREX", "role": "Community Founder & Developer", "avatarUrl": "https://avatars.githubusercontent.com/u/29985707?v=4" },
+    { "name": "Silva", "role": "WEB Developer", "avatarUrl": "https://avatars.githubusercontent.com/u/166868234?v=4" },
+    { "name": "Ivo", "role": "DM-S Developer", "avatarUrl": "https://avatars.githubusercontent.com/u/225723602?v=4" }
   ],
   "links": [
     { "label": "Discord", "url": "https://discord.gg/e5d8m8hcnr" },
