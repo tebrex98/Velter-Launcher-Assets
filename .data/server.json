@@ -53,8 +53,8 @@
     "_level": "info|warning|danger",
     "enabled": true,
     "id": "restart-1",
-    "message": "The server is under development!",
-    "level": "info",
+    "message": "The server is currently under development! Stay up to date with the latest news on our Discord.",
+    "level": "warning",
     "url": "https://discord.gg/rEYUbYHs4V",
     "linkText": "Visit our Discord"
   },
