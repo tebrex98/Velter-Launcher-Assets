@@ -1,7 +1,7 @@
 {
   "featured": {
     "tag": "New",
-    "imageUrl": "https://i.ibb.co/CpsNmjnB/image.png",
+    "imageUrl": "https://i.ibb.co/hxVnxQyM/image.png",
     "header": "Mode Manager is here!",
     "text": "A new and convenient way to manage your game modes directly from the launcher.",
     "date": "03.10.2026",
@@ -13,7 +13,7 @@
       "header": "GTA SA gamemode from scratch",
       "text": "We have started working on a brand new GTA SA gamemode, written completely from scratch.",
       "imageUrl": "https://i.ibb.co/fdytVfxw/sa-mp-0000005.png",
-      "date": "03.10.2026",
+      "date": "05.10.2026",
       "body": "We have started working on a brand new GTA SA gamemode, written completely from scratch.\n\nBuilding from the ground up lets us create cleaner systems, fix long-standing issues at the root and add new features much faster than before.\n\nWe will keep sharing news and progress here in the launcher, so stay tuned."
     }
   ]
