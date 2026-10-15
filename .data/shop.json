@@ -32,7 +32,7 @@
           "image": "https://i.ibb.co/4ZdXvJjH/image.png",
           "effect": { "type": "vehicle", "value": 522 }
         },
-        { "id": "veh-sultan", "name": "Sultan", "description": "Claim it in-game into a free vehicle slot", "price": 800,
+        { "id": "veh-sultan", "name": "Sultan", "description": "Claim it in-game into a free vehicle slot", "price": 1350,
           "image": "https://i.ibb.co/rfNP2hDf/image.png",
           "effect": { "type": "vehicle", "value": 560 }
         }
