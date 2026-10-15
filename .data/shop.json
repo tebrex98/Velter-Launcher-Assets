@@ -21,7 +21,7 @@
         },
         { "id": "vip-gold-30", "name": "VIP Gold", "description": "Golden VIP for 30 days", "price": 850,
           "image": "https://i.ibb.co/5ZFwdkw/gold.jpg",
-          "effect": { "type": "vip", "value": 3, "amount": 30 }
+          "effect": { "type": "vip", "value": 3, "amount": 30, "badge": "Popular" }
         }
       ]
     },
