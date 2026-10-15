@@ -11,18 +11,27 @@
     {
       "id": "vip", "name": "VIP",
       "packages": [
-        { "id": "vip-bronze-30", "name": "VIP Bronze", "description": "VIP 1 for 30 days", "price": 300,
-          "image": "https://raw.githubusercontent.com/tebrex98/Velter-Launcher-Assets/main/.data/shop/vip-bronze.png",
-          "effect": { "type": "vip", "value": 1, "amount": 30 } },
-        { "id": "vip-silver-30", "name": "VIP Silver", "description": "VIP 2 for 30 days", "price": 600,
-          "effect": { "type": "vip", "value": 2, "amount": 30 } }
+        { "id": "vip-bronze-30", "name": "VIP Bronze", "description": "Bronze VIP for 30 days", "price": 300,
+          "image": "https://i.ibb.co/GfkSszMK/bronza.jpg",
+          "effect": { "type": "vip", "value": 1, "amount": 30 }
+        },
+        { "id": "vip-silver-30", "name": "VIP Silver", "description": "Silver VIP for 30 days", "price": 600,
+          "image": "https://i.ibb.co/Pvf64xyG/silver.jpg",
+          "effect": { "type": "vip", "value": 2, "amount": 30 }
+        },
+        { "id": "vip-gold-30", "name": "VIP Gold", "description": "Golden VIP for 30 days", "price": 850,
+          "image": "https://i.ibb.co/5ZFwdkw/gold.jpg",
+          "effect": { "type": "vip", "value": 3, "amount": 30 }
+        }
       ]
     },
     {
       "id": "vehicles", "name": "Vehicles",
       "packages": [
         { "id": "veh-nrg500", "name": "NRG-500", "description": "Claim it in-game into a free vehicle slot", "price": 800,
-          "effect": { "type": "vehicle", "value": 522 } }
+          "image": "https://i.ibb.co/4ZdXvJjH/image.png",
+          "effect": { "type": "vehicle", "value": 522 }
+        }
       ]
     },
     {
@@ -34,7 +43,8 @@
           "effects": [
             { "type": "vehicle", "value": 560 },
             { "type": "money", "amount": 50000 }
-          ] }
+          ]
+        }
       ]
     }
   ]
