@@ -24,7 +24,7 @@
       "author": "aurora-mp",
       "version": "1.4.0",
       "sizeBytes": 153092096,
-      "sha256": "8ae91a82e625d97d957617db6fd63ba9837c95a804a272a9d680005231700f08",
+      "sha256": "9bdcf634a6b473e648716deaa3779f55ac1211924ee9c55013897582cf34e55f",
       "installTarget": "root",
       "downloadUrl": "https://github.com/aurora-mp/omp-cef/releases/download/v1.4.0/client-files-v1.4.0.zip",
       "required": true
