@@ -23,9 +23,9 @@
       "imageUrl": "",
       "author": "TEBREX",
       "version": "1.0.0",
-      "sizeBytes": 14020705,
+      "sizeBytes": 82316760,
       "installTarget": "modloader",
-      "sha256": "cea26b0fabc4919e11522aa9af0e164d92ae31ce0b19744d21800b3b76d44996",
+      "sha256": "92afc3f9f247500b8799542862e34de001d452d2f64bfa4fa4cf5bb47564ba5b",
       "downloadUrl": "https://github.com/tebrex98/Velter-Launcher-Assets/releases/download/velter_launcher/maps.zip",
       "required": false
     },
