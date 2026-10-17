@@ -13,7 +13,7 @@
       "installTarget": "root",
       "sha256": "12efc86f83b239c632272a1c7f35137cdaf10d2c6d011a9eac2b8cb4271c2b7d",
       "downloadUrl": "https://github.com/tebrex98/Velter-Launcher-Assets/releases/download/velter_launcher/velter_essentials.zip",
-      "required": true
+      "required": false
     },
     {
       "id": "velter_maps",
