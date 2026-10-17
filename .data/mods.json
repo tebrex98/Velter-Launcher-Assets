@@ -16,6 +16,20 @@
       "required": true
     },
     {
+      "id": "velter_maps",
+      "game": "samp",
+      "name": "Velter Maps",
+      "description": "The official Velter Essential Pack required for all players. Includes core mods, custom assets, and files needed to join the Velter community.",
+      "imageUrl": "",
+      "author": "TEBREX",
+      "version": "1.0.0",
+      "sizeBytes": 14020705,
+      "installTarget": "root",
+      "sha256": "cea26b0fabc4919e11522aa9af0e164d92ae31ce0b19744d21800b3b76d44996",
+      "downloadUrl": "https://github.com/tebrex98/Velter-Launcher-Assets/releases/download/velter_launcher/maps.zip",
+      "required": true
+    },
+    {
       "id": "cef",
       "game": "samp",
       "name": "Chromium Embedded Framework (CEF)",
