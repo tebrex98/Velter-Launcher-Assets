@@ -36,12 +36,12 @@
       "description": "It embeds Chromium Embedded Framework into GTA San Andreas Multiplayer clients and allows servers to create browser-based UI in several rendering modes: Overlay2D, World2D and WorldObject3D.",
       "imageUrl": "https://integu.net/wp-content/uploads/2020/11/INTEGU-Chromium-embedded-framework.png",
       "author": "aurora-mp",
-      "version": "0.0.5",
+      "version": "0.0.6",
       "sizeBytes": 153092096,
       "sha256": "",
       "installTarget": "root",
-      "downloadUrl": "https://download1529.mediafire.com/5t74f0if5elggWGEeVieG6BP7b_8rKuA-iuFg0_QFoTNPq9JBga0V1g52_lW9J-7zDwsstw8QCi9ZJQmnVDlogNkzJP7ndSGgziLo3qkiHEGCxwP76BTXxxgJXDB_LOZbVJzg5Pa3eqyfYfvPSCWjyWpyliRMGPaoc8ygWKq1Hmz9Mlt/gon2216nseaqve7/cef.zip",
-      "required": true,
+      "downloadUrl": "https://download1655.mediafire.com/zljs7k77p0zgensDCUFc_fX55n4AZugEA6wk1ri4wxAKcuKBchqOv4gALJIdExBuzM2sb-K1AnnVjSsjgmlaZWrEt6RxLeptXzhrC3YHdBWTGUT7eh_Cgt2JcEOMXYCmnbuQPe2OEztFeLiLoNHwvWsrGiAF0Dj_BBExQ1YOUgEpkQd9/lfyu4dsmi9qwkwk/cef.zip",
+      "required": false,
       "allowExecutables": ["cef/renderer.exe"]
     },
     {
