@@ -20,6 +20,15 @@
       "description": "Jump into the action and prove yourself. Fight your way through intense battles, rack up kills, climb the leaderboard, and dominate the streets. No rules, no waiting — just pure action."
     },
     {
+      "id": "test",
+      "game": "samp",
+      "name": "Infection RolePlay",
+      "mode": "DeathMatch",
+      "ip": "137.74.47.231",
+      "port": 7777,
+      "description": "Jump into the action and prove yourself. Fight your way through intense battles, rack up kills, climb the leaderboard, and dominate the streets. No rules, no waiting — just pure action."
+    },
+    {
       "id": "fivem-rp",
       "game": "fivem",
       "name": "Velter FiveM",
