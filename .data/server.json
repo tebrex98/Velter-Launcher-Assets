@@ -29,6 +29,15 @@
       "description": "Jump into the action and prove yourself. Fight your way through intense battles, rack up kills, climb the leaderboard, and dominate the streets. No rules, no waiting — just pure action."
     },
     {
+      "id": "localhost",
+      "game": "samp",
+      "name": "LocalHost",
+      "mode": "",
+      "ip": "127.0.0.1",
+      "port": 7777,
+      "description": ""
+    },
+    {
       "id": "fivem-rp",
       "game": "fivem",
       "name": "Velter FiveM",
