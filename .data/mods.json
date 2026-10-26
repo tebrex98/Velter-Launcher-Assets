@@ -100,7 +100,8 @@
       "sizeBytes": 3410804,
       "installTarget": "modloader",
       "downloadUrl": "https://github.com/tebrex98/Velter-Launcher-Assets/releases/download/velter_launcher/proper_shaders.zip",
-      "required": false
+      "required": false,
+      "sha256": "86dddc7cce5b0eb9447f86ee45e34b5c34e74cd8afe5d4fb65e2979617267fc3"
     },
     {
       "id": "first_person",
